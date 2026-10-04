@@ -7,4 +7,4 @@ identities.dev is a link-in-bio platform that lets you build a profile page that
 # What is Katanith?
 Katanith is a trading journal and analytics platform. It lets you log trades, protect your accounts with auto-lock rules, analyze your edge with advanced stats, and track the economic calendar — all in one clean workspace.
 # What is SDS Bot?
-AI chat via Gemini, a full YouTube music player, a complete moderation suite, a ticket system with HTML transcripts, reaction-role button panels, custom embed building, and an advanced website crawler.
+AI chat via Gemini, a full YouTube music player, a complete moderation suite, a ticket system with HTML transcripts, reaction-role button panels, custom embed building, and an advanced website crawler. Built for Discord.
